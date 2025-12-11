@@ -1,10 +1,10 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um e-book de 5 páginas que informa o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas e estruturar o conteúdo.
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
