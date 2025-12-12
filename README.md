@@ -1,7 +1,8 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Um e-book de 6 páginas que informa o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Um e-book de 6 páginas que informa o impacto revolucionário das IAs Generativas no nosso dia a dia e
+como elas moldarão o futuro.
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para roteirização;
