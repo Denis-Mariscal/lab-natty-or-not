@@ -17,7 +17,7 @@ a montagem final foi feita no Libre Office, por ser uma ferramenta open-source p
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas
 podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-LINK PARA O E-BOOK AQUI
+[LINK PARA O E-BOOK AQUI](https://github.com/digitalinnovationone/lab-natty-or-not/blob/main/exemplos)
 
 ## 💭 Reflexão (Opcional)
 Criar este e-book foi uma experiência revelada sobre o potencial criativo
