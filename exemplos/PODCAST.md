@@ -14,7 +14,7 @@ O ElevenLabs ajudou a criar uma voz sintética para a narração.
 O Descript foi essencial para a edição final, garantindo um fluxo suave e profissional.
 
 ## 🎯 Resultados
-Este episódio é uma introdução ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
+Este episódio é uma introdução ao campo das IAs Generativas, muito útil para quem busca uma compreensão rápida do assunto.
 
 [LINK PARA O PODCAST AQUI](https://drive.google.com/file/d/1uZLAU6jodYy10qxr3vDEBBkax_3_w2_X/view?usp=drive_link)
 
