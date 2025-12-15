@@ -10,7 +10,8 @@ Olá, Sou o Denis! Inspirado na hype _"Natty or Not"_ do fisiculturismo, com est
 1. **Potfólio de Projetos**:
     1 . Irei fazer um "fork" deste repositório, criando uma cópia no meu GitHub pessoal;
     2 . Irei editar seu README com os detalhes do meu projeto, seguindo as diretrizes que foram passadas;
-    3 . Envirei o link de meu repositório para a plataforma da DIO. Pronto, Para fortalecer meu portfólio de projetos nos perfis do GitHub e DIO 🚀
+    3 . Envirei o link de meu repositório para a plataforma da DIO.
+    Para fortalecer meu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilharei meus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. usando os seguintes links: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
