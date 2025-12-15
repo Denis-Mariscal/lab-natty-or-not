@@ -20,7 +20,7 @@ Olá, Sou o Denis! Inspirado na hype _"Natty or Not"_ do fisiculturismo, com est
 # Explorando e aprendendo com Inteligência Artificial.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto irei elaborar um E-book, podcast e um vídeo utilizando as tecnologias citadas no curso.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
