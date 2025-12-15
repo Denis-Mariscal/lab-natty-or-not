@@ -7,7 +7,7 @@ Inspirado na hype _"Natty or Not"_ do fisiculturismo, com este Lab da DIO farei 
 
 ### Objetivos
 
-1. **Explorar IAs Generativas**: Utilizar essas tecnologias para criar conteúdos que sejam o mais realista possível. Espero produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
+1. **Explorar IAs Generativas**: Utilizar essas tecnologias para criar conteúdos que sejam o mais realista possível. Espero produzir imagens, textos, áudios, vídeos aprimorando meu conhecimento!
 1. **Potfólio de Projetos**:
     1 . Irei fazer um "fork" deste repositório, criando uma cópia no meu GitHub pessoal;
     2 . Irei editar seu README com os detalhes do meu projeto, seguindo as diretrizes que foram passadas;
