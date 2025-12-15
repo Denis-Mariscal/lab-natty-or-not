@@ -5,7 +5,7 @@
 Olá, Sou o Denis!
 Inspirado na hype _"Natty or Not"_ do fisiculturismo, com este Lab da DIO farei minha versão para conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas!
 
-### Objetivos
+### 🎯 Objetivos
 
 1. **Explorar IAs Generativas**: Utilizar essas tecnologias para criar conteúdos que sejam o mais realista possível. Espero produzir imagens, textos, áudios, vídeos aprimorando meu conhecimento!
 1. **Potfólio de Projetos**:
