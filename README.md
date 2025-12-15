@@ -2,7 +2,8 @@
 
 ##  ✔ Introdução
 
-Olá, Sou o Denis! Inspirado na hype _"Natty or Not"_ do fisiculturismo, com este Lab da DIO farei minha versão para conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas!
+Olá, Sou o Denis!
+Inspirado na hype _"Natty or Not"_ do fisiculturismo, com este Lab da DIO farei minha versão para conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas!
 
 ### Objetivos
 
