@@ -15,7 +15,7 @@ Inspirado na hype _"Natty or Not"_ do fisiculturismo, com este Lab da DIO farei 
     Para fortalecer meu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilharei meus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. usando os seguintes links: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
+###  ✔ Template
 
 ```markdown
 # Explorando e aprendendo com Inteligência Artificial.
