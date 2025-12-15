@@ -32,20 +32,8 @@ fazer a clonagem e sintetização de voz e descrição do sofware para edição 
 No vídeo utizei o ChatGPT para escrever e revisar, o D-ID para criar um avatar e a voz sintetizada, o adobe premiere para montagem e edição.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Com esse projeto tive um bom resultado de aprendizado, acessar essas tecnologias me fez entender a importância de estar sempre em busca de conhecimento.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Mesmo sendo um curso básico, é desafiador principalmente para quem está começando, mas como a IA será vital para as profissões futuras, aprender se torna o melhor caminho.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
