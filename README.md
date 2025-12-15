@@ -16,7 +16,7 @@ Olá, Sou o Denis! Inspirado na hype _"Natty or Not"_ do fisiculturismo, com est
 ### Template
 
 ```markdown
-# Explorando e aprendendo com Inteligência Artificial ;)
+# Explorando e aprendendo com Inteligência Artificial.
 
 ## 📒 Descrição
 Breve descrição do seu projeto
