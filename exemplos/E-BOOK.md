@@ -1,7 +1,7 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Inteligência Artificial moldando o futuro. 🤖
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Criei um  e-book de 6 páginas para explicar o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
