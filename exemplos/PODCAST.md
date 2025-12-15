@@ -9,7 +9,7 @@ Este podcast de 5 minutos oferece uma explicação pelo mundo das IAs Generativa
 - Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
 
 ## 🧠 Processo de Criação
-O ChatGPT foi utilizado para desenvolver o roteiro do podcast. 
+Utilizei o ChatGPT para desenvolver o roteiro do podcast. 
 O ElevenLabs ajudou a criar uma voz sintética para a narração.
 O Descript foi essencial para a edição final, garantindo um fluxo suave e profissional.
 
