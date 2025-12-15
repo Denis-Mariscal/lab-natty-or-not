@@ -16,7 +16,7 @@ A montagem final foi feita no Libre Office, uma ferramenta open-source para edi�
 ## 🎯 Resultados
 O e-book resume como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://drive.google.com/file/d/1MNUPetRwcWir3_sBPCQyx6-CHyoN406P/view?usp=drive_link)
 
 ## 💭 Reflexão
 Criando este e-book obtive conhecimento e experiência sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
