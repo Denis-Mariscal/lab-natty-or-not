@@ -26,7 +26,7 @@ Neste projeto irei elaborar um E-book, podcast e um vídeo utilizando as tecnolo
 ## 💻 Tecnologias Utilizadas
 ChatGPT, LeonardoAI, Livreoffice, Elevenlabs, descrição do software, D-ID e adobe premiere.
 
-##  🧠 Processo de Criação
+## 🧠 Processo de Criação
 Utilizei o ChatGPT para roteirização, e LeonardoAI para criar a arte visual do E-book, para o podcast usei o elevenlabs para
 fazer a clonagem e sintetização de voz e descrição do sofware para edição e montagem.
 No vídeo utizei o ChatGPT para escrever e revisar, o D-ID para criar um avatar e a voz sintetizada, o adobe premiere para montagem e edição.
