@@ -1,6 +1,6 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural ou Não? Como aprender e diferenciar conteúdos na Era das IAs Generativas
 
-## 🚀 Introdução
+##  ✔ Introdução
 
 Olá, Sou o Denis! Inspirado na hype _"Natty or Not"_ do fisiculturismo, com este Lab da DIO farei minha versão para conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas!
 
