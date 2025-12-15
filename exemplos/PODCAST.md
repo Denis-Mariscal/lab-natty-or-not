@@ -19,4 +19,4 @@ O episódio é uma introdução ao campo das IAs Generativas, ideal para quem bu
 [LINK PARA O PODCAST AQUI](https://drive.google.com/file/d/1uZLAU6jodYy10qxr3vDEBBkax_3_w2_X/view?usp=drive_link)
 
 ## 💭 Reflexão
-O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
+O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo caminhos para a produção de mídia digital.
