@@ -24,7 +24,7 @@ Inspirado na hype _"Natty or Not"_ do fisiculturismo, com este Lab da DIO farei 
 Neste projeto irei elaborar um E-book, podcast e um vídeo utilizando as tecnologias citadas no curso.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT, LeonardoAI, Livreoffice, Elevenlabs, descrição do software, D-ID e adobe premiere.
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
