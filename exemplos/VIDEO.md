@@ -1,7 +1,7 @@
 # Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
 
 ## 📒 Descrição
-Este vídeo de 1 minuto mostra, de forma rápida e envolvente, como as IAs Generativas podem ser
+Este vídeo de menos de 1 minuto mostra, de forma rápida e envolvente, como as IAs Generativas podem ser
 usadas no dia a dia e o impacto que elas já têm na vida das pessoas, no trabalho e na criação de conteúdo.
 
 ## 💻 Tecnologias Utilizadas
@@ -17,7 +17,7 @@ dando ao vídeo um toque futurista. A edição e montagem foram feitas no Adobe 
 O vídeo configura-se como um registro temporal, conduzindo o espectador por uma
 trajetória sintética pelo campo das IAs Generativas, com ênfase em sua capacidade transformadora.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://studio.d-id.com/share?id=5adc57c301c6881b48eb9934bb8a68d8&utm_source=copy)
 
 ## 💭 Reflexão
 Este projeto constituiu uma experiência significativa no desenvolvimento de narrativas visuais,
